@@ -1,0 +1,32 @@
+C:\Users\User\source\repos\2_2\bin\Debug\net5.0\2_2.exe
+C:\Users\User\source\repos\2_2\bin\Debug\net5.0\2_2.deps.json
+C:\Users\User\source\repos\2_2\bin\Debug\net5.0\2_2.runtimeconfig.json
+C:\Users\User\source\repos\2_2\bin\Debug\net5.0\2_2.runtimeconfig.dev.json
+C:\Users\User\source\repos\2_2\bin\Debug\net5.0\2_2.dll
+C:\Users\User\source\repos\2_2\bin\Debug\net5.0\ref\2_2.dll
+C:\Users\User\source\repos\2_2\bin\Debug\net5.0\2_2.pdb
+C:\Users\User\source\repos\2_2\obj\Debug\net5.0\2_2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\2_2\obj\Debug\net5.0\2_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\2_2\obj\Debug\net5.0\2_2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\2_2\obj\Debug\net5.0\2_2.AssemblyInfo.cs
+C:\Users\User\source\repos\2_2\obj\Debug\net5.0\2_2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\2_2\obj\Debug\net5.0\2_2.dll
+C:\Users\User\source\repos\2_2\obj\Debug\net5.0\ref\2_2.dll
+C:\Users\User\source\repos\2_2\obj\Debug\net5.0\2_2.pdb
+C:\Users\User\source\repos\2_2\obj\Debug\net5.0\2_2.genruntimeconfig.cache
+G:\Study\KPI\ІІ семестр\C.sharp\Labs\Laba2_2_OP(1)\bin\Debug\net5.0\2_2.exe
+G:\Study\KPI\ІІ семестр\C.sharp\Labs\Laba2_2_OP(1)\bin\Debug\net5.0\2_2.deps.json
+G:\Study\KPI\ІІ семестр\C.sharp\Labs\Laba2_2_OP(1)\bin\Debug\net5.0\2_2.runtimeconfig.json
+G:\Study\KPI\ІІ семестр\C.sharp\Labs\Laba2_2_OP(1)\bin\Debug\net5.0\2_2.runtimeconfig.dev.json
+G:\Study\KPI\ІІ семестр\C.sharp\Labs\Laba2_2_OP(1)\bin\Debug\net5.0\2_2.dll
+G:\Study\KPI\ІІ семестр\C.sharp\Labs\Laba2_2_OP(1)\bin\Debug\net5.0\ref\2_2.dll
+G:\Study\KPI\ІІ семестр\C.sharp\Labs\Laba2_2_OP(1)\bin\Debug\net5.0\2_2.pdb
+G:\Study\KPI\ІІ семестр\C.sharp\Labs\Laba2_2_OP(1)\obj\Debug\net5.0\2_2.csproj.AssemblyReference.cache
+G:\Study\KPI\ІІ семестр\C.sharp\Labs\Laba2_2_OP(1)\obj\Debug\net5.0\2_2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Study\KPI\ІІ семестр\C.sharp\Labs\Laba2_2_OP(1)\obj\Debug\net5.0\2_2.AssemblyInfoInputs.cache
+G:\Study\KPI\ІІ семестр\C.sharp\Labs\Laba2_2_OP(1)\obj\Debug\net5.0\2_2.AssemblyInfo.cs
+G:\Study\KPI\ІІ семестр\C.sharp\Labs\Laba2_2_OP(1)\obj\Debug\net5.0\2_2.csproj.CoreCompileInputs.cache
+G:\Study\KPI\ІІ семестр\C.sharp\Labs\Laba2_2_OP(1)\obj\Debug\net5.0\2_2.dll
+G:\Study\KPI\ІІ семестр\C.sharp\Labs\Laba2_2_OP(1)\obj\Debug\net5.0\ref\2_2.dll
+G:\Study\KPI\ІІ семестр\C.sharp\Labs\Laba2_2_OP(1)\obj\Debug\net5.0\2_2.pdb
+G:\Study\KPI\ІІ семестр\C.sharp\Labs\Laba2_2_OP(1)\obj\Debug\net5.0\2_2.genruntimeconfig.cache
